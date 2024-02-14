@@ -15,13 +15,13 @@ logging.basicConfig(level=logging.INFO)
 
 # -------------------------------------------------------------------------------------
 
-BOT_USERNAME = os.environ.get("BOT_USERNAME","Group_SecurityRobot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME","kid_support_bot")
 
-OWNER_ID = "6664582540"
+OWNER_ID = "6535576719"
 # -------------------------------------------------------------------------------------
 
-API_ID = "6435225" # 
-API_HASH = "4e984ea35f854762dcde906dce426c2d"
+API_ID = "25511402" # 
+API_HASH = "73cd4400a9f1215c598e4a8549b39c87"
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
 
 # --------------------------------------------------------------------------------------
